@@ -1,0 +1,18 @@
+
+   body{
+    background-color:bisque;
+   }
+  h1{
+    color:darkred;
+    font-style: italic;
+  }
+  h2{
+    color: brown;
+    font-style:times;
+  }
+  p{ 
+     color: dimgray;
+     font-style: ariel;
+  }
+  
+  
